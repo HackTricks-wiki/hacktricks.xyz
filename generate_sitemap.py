@@ -123,7 +123,7 @@ def main():
 
     # Parallel check all translation URLs with progress bar
     all_translation_checks = {}
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=30) as executor:
         # Submit all tasks to executor
         future_to_url = {executor.submit(check_url_exists, t_url): (hreflang, t_url) 
                          for _, _, _, t_urls in url_entries for hreflang, t_url in t_urls.items()}
