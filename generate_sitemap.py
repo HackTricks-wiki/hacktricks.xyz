@@ -25,7 +25,7 @@ languages = {
 
 # User agent for Googlebot
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    #"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" # 403 from gitbook
 }
 
 def fetch_sitemap(url):
@@ -44,19 +44,20 @@ def check_url_exists(url):
 
 def main():
     # URLs of the sitemaps
-    book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
+    #book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
     cloud_sitemap_url = "https://cloud.hacktricks.xyz/sitemap.xml"
 
     # Fetch both sitemaps
-    book_sitemap_data = fetch_sitemap(book_sitemap_url)
+    #book_sitemap_data = fetch_sitemap(book_sitemap_url)
     cloud_sitemap_data = fetch_sitemap(cloud_sitemap_url)
 
     # Parse XML
     ns = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-    book_root = ET.fromstring(book_sitemap_data)
+    #book_root = ET.fromstring(book_sitemap_data)
     cloud_root = ET.fromstring(cloud_sitemap_data)
 
-    all_urls = book_root.findall('ns:url', ns) + cloud_root.findall('ns:url', ns)
+    all_urls = cloud_root.findall('ns:url', ns)
+    #all_urls = book_root.findall('ns:url', ns) + cloud_root.findall('ns:url', ns)
 
     # Prepare the output sitemap
     ET.register_namespace('', "http://www.sitemaps.org/schemas/sitemap/0.9")
