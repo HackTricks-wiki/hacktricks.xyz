@@ -1,4 +1,5 @@
 Sitemap: https://www.hacktricks.xyz/sitemap.xml
+Sitemap: https://www.hacktricks.xyz/sitemap2.xml
 
 User-agent: *
 Disallow:
