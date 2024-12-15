@@ -4393,25 +4393,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/dll-hijacking"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc</loc>
+    <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc</loc>
     <priority>0.59</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-+dll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/dll-hijacking/writable-sys-path-%2Bdll-hijacking-privesc"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dpapi-extracting-passwords</loc>
@@ -4603,25 +4603,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/roguepotato-and-printspoofer"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token</loc>
+    <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/sedebug-+-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/windows-local-privilege-escalation/sedebug-%2B-seimpersonate-copy-token"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/seimpersonate-from-high-to-system</loc>
@@ -7207,25 +7207,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/43-pentesting-whois"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/network-services-pentesting/49-pentesting-tacacs+</loc>
+    <loc>https://book.hacktricks.xyz/network-services-pentesting/49-pentesting-tacacs%2B</loc>
     <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/network-services-pentesting/49-pentesting-tacacs+"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/49-pentesting-tacacs+"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/network-services-pentesting/49-pentesting-tacacs%2B"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/49-pentesting-tacacs%2B"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns</loc>
@@ -10903,25 +10903,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/content-security-policy-csp-bypass"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-+-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/content-security-policy-csp-bypass/csp-bypass-self-%2B-unsafe-inline-with-iframes"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/hacking-with-cookies</loc>
@@ -11302,25 +11302,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/deserialization/basic-java-deserialization-objectinputstream-readobject"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/deserialization/php-deserialization-+-autoload-classes</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/deserialization/php-deserialization-+-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/deserialization/php-deserialization-%2B-autoload-classes"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/deserialization/java-transformers-to-rutime-exec-payload</loc>
@@ -11701,25 +11701,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/file-inclusion/lfi2rce-via-eternal-waiting"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-+-php_stream_prefer_studio-+-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/file-inclusion/lfi2rce-via-compress.zlib-%2B-php_stream_prefer_studio-%2B-path-disclosure"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/file-upload</loc>
@@ -13654,25 +13654,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/connection-pool-by-destination-example"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/cookie-bomb-+-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/cookie-bomb-%2B-onerror-xs-leak"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/url-max-length-client-side</loc>
@@ -13717,46 +13717,46 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/performance.now-example"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/performance.now-+-force-heavy-task</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/performance.now-%2B-force-heavy-task</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/performance.now-+-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/performance.now-%2B-force-heavy-task"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/event-loop-blocking-+-lazy-images</loc>
+    <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/event-loop-blocking-+-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/pentesting-web/xs-search/event-loop-blocking-%2B-lazy-images"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/xs-search/javascript-execution-xs-leak</loc>
@@ -14389,25 +14389,25 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/binary-exploitation/rop-return-oriented-programing/ret2lib/one-gadget"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64</loc>
+    <loc>https://book.hacktricks.xyz/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64</loc>
     <priority>0.59</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-+-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/binary-exploitation/rop-return-oriented-programing/ret2lib/ret2lib-%2B-printf-leak-arm64"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/binary-exploitation/rop-return-oriented-programing/rop-syscall-execv</loc>
