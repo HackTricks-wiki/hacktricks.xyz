@@ -1,8 +1,8 @@
 import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
+from urllib.parse import quote
 
 # Correct hreflang values for languages
 languages = {
@@ -35,19 +35,23 @@ def fetch_sitemap(url):
     response.raise_for_status()
     return response.text
 
-def check_url_exists(url):
-    """Check if a URL exists using a HEAD request."""
-    try:
-        r = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=30)
-        return r.status_code == 200
-    except Exception:
-        return False
+# def check_url_exists(url):
+#     """Check if a URL exists using a HEAD request."""
+#     try:
+#         r = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=30)
+#         return r.status_code == 200
+#     except Exception:
+#         return False
 
 def prettify_xml(element):
     """Prettify and return a string representation of the XML."""
     rough_string = ET.tostring(element, encoding='utf-8')
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
+
+def encode_url(url):
+    """Encode the URL to make it XML-safe and RFC-compliant."""
+    return quote(url, safe=":/?&=")  # Leave common URL-safe characters untouched
 
 def main():
     # URLs of the sitemaps
@@ -76,7 +80,7 @@ def main():
     # Add static entry for https://www.hacktricks.xyz/
     static_url = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
     loc = ET.SubElement(static_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
-    loc.text = "https://www.hacktricks.xyz/"
+    loc.text = encode_url("https://www.hacktricks.xyz/")
     new_root.append(static_url)
 
     # Process main URLs
@@ -92,6 +96,9 @@ def main():
 
         priority = url_element.find('ns:priority', ns)
         lastmod = url_element.find('ns:lastmod', ns)
+
+        # Encode the base loc_text
+        loc_text = encode_url(loc_text)
 
         # Determine base domain and path
         parts = loc_text.split("/")
@@ -112,7 +119,7 @@ def main():
             else:
                 # If original was just the root, translated is also root + /lang
                 translated_url = f"{base_domain}/{lang_code}"
-            translation_urls[hreflang] = translated_url
+            translation_urls[hreflang] = encode_url(translated_url)
 
         url_entries.append((
             loc_text,
@@ -121,18 +128,16 @@ def main():
             translation_urls
         ))
 
-    # Parallel check all translation URLs with progress bar
-    all_translation_checks = {}
-    with ThreadPoolExecutor(max_workers=30) as executor:
-        # Submit all tasks to executor
-        future_to_url = {executor.submit(check_url_exists, t_url): (hreflang, t_url) 
-                         for _, _, _, t_urls in url_entries for hreflang, t_url in t_urls.items()}
-
-        # Use tqdm to show progress
-        for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Checking Translation URLs"):
-            hreflang, t_url = future_to_url[future]
-            result = future.result()
-            all_translation_checks[t_url] = result
+    # Commented-out URL checks, assuming all translations exist for now
+    # all_translation_checks = {}
+    # with ThreadPoolExecutor(max_workers=10) as executor:
+    #     future_to_url = {executor.submit(check_url_exists, t_url): (hreflang, t_url) 
+    #                      for _, _, _, t_urls in url_entries for hreflang, t_url in t_urls.items()}
+    #
+    #     for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Checking Translation URLs"):
+    #         hreflang, t_url = future_to_url[future]
+    #         result = future.result()
+    #         all_translation_checks[t_url] = result
 
     # Build the final sitemap
     for (loc_text, priority_val, lastmod_val, translation_urls) in url_entries:
@@ -149,16 +154,12 @@ def main():
             lastmod_el = ET.SubElement(new_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod')
             lastmod_el.text = lastmod_val
 
-        # Add existing translations (excluding English, which is default)
+        # Add all translations (assume all exist for now)
         for hreflang, t_url in translation_urls.items():
-            if all_translation_checks.get(t_url, False):
-                alt_link = ET.SubElement(new_url, '{http://www.w3.org/1999/xhtml}link')
-                alt_link.set('rel', 'alternate')
-                alt_link.set('hreflang', hreflang)
-                alt_link.set('href', t_url)
-            else:
-                # Print in red if not found
-                print("\033[31m" + f"{t_url} NOT FOUND" + "\033[0m")
+            alt_link = ET.SubElement(new_url, '{http://www.w3.org/1999/xhtml}link')
+            alt_link.set('rel', 'alternate')
+            alt_link.set('hreflang', hreflang)
+            alt_link.set('href', t_url)
 
         new_root.append(new_url)
 
