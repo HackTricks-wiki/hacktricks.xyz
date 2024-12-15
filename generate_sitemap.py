@@ -1,5 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
@@ -41,6 +42,12 @@ def check_url_exists(url):
         return r.status_code == 200
     except Exception:
         return False
+
+def prettify_xml(element):
+    """Prettify and return a string representation of the XML."""
+    rough_string = ET.tostring(element, encoding='utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
 
 def main():
     # URLs of the sitemaps
@@ -155,8 +162,10 @@ def main():
 
         new_root.append(new_url)
 
-    new_tree = ET.ElementTree(new_root)
-    new_tree.write("sitemap.xml", encoding="utf-8", xml_declaration=True)
+    # Save prettified XML to file
+    beautified_xml = prettify_xml(new_root)
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(beautified_xml)
 
 if __name__ == "__main__":
     main()
