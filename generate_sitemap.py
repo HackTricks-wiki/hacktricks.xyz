@@ -25,7 +25,7 @@ languages = {
 
 # User agent for Googlebot
 HEADERS = {
-    #"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" # 403 from gitbook
+    #"User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" # gitbook returns 403
 }
 
 def fetch_sitemap(url):
@@ -44,20 +44,19 @@ def check_url_exists(url):
 
 def main():
     # URLs of the sitemaps
-    #book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
+    book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
     cloud_sitemap_url = "https://cloud.hacktricks.xyz/sitemap.xml"
 
     # Fetch both sitemaps
-    #book_sitemap_data = fetch_sitemap(book_sitemap_url)
+    book_sitemap_data = fetch_sitemap(book_sitemap_url)
     cloud_sitemap_data = fetch_sitemap(cloud_sitemap_url)
 
     # Parse XML
     ns = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-    #book_root = ET.fromstring(book_sitemap_data)
+    book_root = ET.fromstring(book_sitemap_data)
     cloud_root = ET.fromstring(cloud_sitemap_data)
 
-    all_urls = cloud_root.findall('ns:url', ns)
-    #all_urls = book_root.findall('ns:url', ns) + cloud_root.findall('ns:url', ns)
+    all_urls = book_root.findall('ns:url', ns) + cloud_root.findall('ns:url', ns)
 
     # Prepare the output sitemap
     ET.register_namespace('', "http://www.sitemaps.org/schemas/sitemap/0.9")
@@ -66,6 +65,12 @@ def main():
 
     seen_locs = set()
     url_entries = []  # Store info for each main URL
+
+    # Add static entry for https://www.hacktricks.xyz/
+    static_url = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
+    loc = ET.SubElement(static_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
+    loc.text = "https://www.hacktricks.xyz/"
+    new_root.append(static_url)
 
     # Process main URLs
     for url_element in tqdm(all_urls, desc="Processing URLs"):
@@ -137,13 +142,7 @@ def main():
             lastmod_el = ET.SubElement(new_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod')
             lastmod_el.text = lastmod_val
 
-        # Add original (en)
-        alt_link = ET.SubElement(new_url, '{http://www.w3.org/1999/xhtml}link')
-        alt_link.set('rel', 'alternate')
-        alt_link.set('hreflang', 'en')
-        alt_link.set('href', loc_text)
-
-        # Add existing translations
+        # Add existing translations (excluding English, which is default)
         for hreflang, t_url in translation_urls.items():
             if all_translation_checks.get(t_url, False):
                 alt_link = ET.SubElement(new_url, '{http://www.w3.org/1999/xhtml}link')
