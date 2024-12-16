@@ -53,21 +53,13 @@ def encode_url(url):
     """Encode the URL to make it XML-safe and RFC-compliant."""
     return quote(url, safe=":/?&=")  # Leave common URL-safe characters untouched
 
-def add_static_urls(root, urls):
-    """Add static URLs to the sitemap."""
+def add_static_urls_without_translations(root, urls):
+    """Add static URLs without translations to the sitemap."""
     for url in urls:
         url_element = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
 
         loc = ET.SubElement(url_element, '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
         loc.text = encode_url(url)
-
-        # Add translations for each language
-        for lang_code, hreflang in languages.items():
-            translated_url = encode_url(f"{url}/{lang_code}")
-            alt_link = ET.SubElement(url_element, '{http://www.w3.org/1999/xhtml}link')
-            alt_link.set('rel', 'alternate')
-            alt_link.set('hreflang', hreflang)
-            alt_link.set('href', translated_url)
 
         root.append(url_element)
 
@@ -101,7 +93,7 @@ def main():
     loc.text = encode_url("https://www.hacktricks.xyz/")
     new_root.append(static_url)
 
-    # Add static URLs for training.hacktricks.xyz
+    # Add static URLs for training.hacktricks.xyz without translations
     static_training_urls = [
         "https://training.hacktricks.xyz/",
         "https://training.hacktricks.xyz/courses/arte",
@@ -116,7 +108,7 @@ def main():
         "https://training.hacktricks.xyz/terms",
         "https://training.hacktricks.xyz/privacy",
     ]
-    add_static_urls(new_root, static_training_urls)
+    add_static_urls_without_translations(new_root, static_training_urls)
 
     # Process main URLs
     for url_element in tqdm(all_urls, desc="Processing URLs"):
