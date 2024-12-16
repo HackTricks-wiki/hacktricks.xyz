@@ -1174,27 +1174,6 @@
     <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/basic-forensic-methodology/windows-forensics/interesting-windows-registry-keys"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/brute-force</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/brute-force"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/brute-force"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/python</loc>
     <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
@@ -1405,48 +1384,6 @@
     <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/python/basic-python"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/exfiltration</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/exfiltration"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/exfiltration"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/tunneling-and-port-forwarding</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/tunneling-and-port-forwarding"/>
-  </url>
-  <url>
     <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/threat-modeling</loc>
     <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
@@ -1468,151 +1405,214 @@
     <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/threat-modeling"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/search-exploits</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/brute-force</loc>
     <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/search-exploits"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/search-exploits"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/brute-force"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/brute-force"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/exfiltration</loc>
     <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/exfiltration"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/exfiltration"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells/msfvenom</loc>
-    <priority>0.7</priority>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells</loc>
+    <priority>0.84</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells/windows</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells/msfvenom</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells/windows"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells/msfvenom"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells/msfvenom"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells/linux</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells/windows</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells/linux"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells/windows"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells/windows"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells/linux</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells/linux"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells/linux"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/reverse-shells/full-ttys</loc>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells/expose-local-to-the-internet</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-methodologies-and-resources/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells/expose-local-to-the-internet"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.xyz/generic-hacking/reverse-shells/full-ttys</loc>
+    <priority>0.7</priority>
+    <lastmod>2024-12-14</lastmod>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/reverse-shells/full-ttys"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/reverse-shells/full-ttys"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.xyz/generic-hacking/search-exploits</loc>
+    <priority>0.84</priority>
+    <lastmod>2024-12-14</lastmod>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/search-exploits"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/search-exploits"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.xyz/generic-hacking/tunneling-and-port-forwarding</loc>
+    <priority>0.84</priority>
+    <lastmod>2024-12-14</lastmod>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/generic-hacking/tunneling-and-port-forwarding"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/generic-hacking/tunneling-and-port-forwarding"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist</loc>
@@ -5918,6 +5918,27 @@
     <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/av-bypass"/>
     <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/av-bypass"/>
     <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/av-bypass"/>
+  </url>
+  <url>
+    <loc>https://book.hacktricks.xyz/windows-hardening/cobalt-strike</loc>
+    <priority>0.84</priority>
+    <lastmod>2024-12-14</lastmod>
+    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/windows-hardening/cobalt-strike"/>
+    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/windows-hardening/cobalt-strike"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/mobile-pentesting/android-checklist</loc>
@@ -16061,1140 +16082,6 @@
     <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/crypto-and-stego/blockchain-and-crypto-currencies"/>
     <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/crypto-and-stego/blockchain-and-crypto-currencies"/>
     <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/crypto-and-stego/blockchain-and-crypto-currencies"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/c2/salseo</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/c2/salseo"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/c2/salseo"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/c2/salseo"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/c2/salseo"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/c2/salseo"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/c2/salseo"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/c2/salseo"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/c2/salseo"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/c2/salseo"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/c2/salseo"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/c2/salseo"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/c2/salseo"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/c2/salseo"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/c2/salseo"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/c2/salseo"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/c2/salseo"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/c2/icmpsh</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/c2/icmpsh"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/c2/icmpsh"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/c2/icmpsh"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/c2/icmpsh"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/c2/icmpsh"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/c2/icmpsh"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/c2/icmpsh"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/c2/icmpsh"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/c2/icmpsh"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/c2/icmpsh"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/c2/icmpsh"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/c2/icmpsh"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/c2/icmpsh"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/c2/icmpsh"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/c2/icmpsh"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/c2/icmpsh"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/c2/cobalt-strike</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/c2/cobalt-strike"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/c2/cobalt-strike"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/references</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/references"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/references"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/references"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/references"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/references"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/references"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/references"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/references"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/references"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/references"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/references"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/references"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/references"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/references"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/references"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/references"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/rust-basics</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/rust-basics"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/rust-basics"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/rust-basics"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/rust-basics"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/rust-basics"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/rust-basics"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/rust-basics"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/rust-basics"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/rust-basics"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/rust-basics"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/rust-basics"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/rust-basics"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/rust-basics"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/rust-basics"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/rust-basics"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/rust-basics"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/more-tools</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/more-tools"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/more-tools"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/more-tools"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/more-tools"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/more-tools"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/more-tools"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/more-tools"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/more-tools"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/more-tools"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/more-tools"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/more-tools"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/more-tools"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/more-tools"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/more-tools"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/more-tools"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/more-tools"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/misc</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/misc"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/misc"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/misc"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/misc"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/misc"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/misc"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/misc"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/misc"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/misc"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/misc"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/misc"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/misc"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/misc"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/misc"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/misc"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/misc"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/pentesting-dns</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/pentesting-dns"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/pentesting-dns"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking/i2c</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking/i2c"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking/i2c"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking/uart</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking/uart"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking/uart"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking/radio</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking/radio"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking/radio"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking/jtag</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking/jtag"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking/jtag"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/hardware-hacking/spi</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/hardware-hacking/spi"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/hardware-hacking/spi"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/industrial-control-systems-hacking</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/industrial-control-systems-hacking"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/industrial-control-systems-hacking"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/industrial-control-systems-hacking/modbus</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/industrial-control-systems-hacking/modbus"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/industrial-control-systems-hacking/modbus"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/pentesting-rfid</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/pentesting-rfid"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/pentesting-rfid"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/infrared</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/infrared"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/infrared"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/sub-ghz-rf</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/sub-ghz-rf"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/sub-ghz-rf"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/ibutton</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/ibutton"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/ibutton"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-nfc</loc>
-    <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero/fz-nfc"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero/fz-nfc"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-sub-ghz</loc>
-    <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero/fz-sub-ghz"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-infrared</loc>
-    <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero/fz-infrared"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero/fz-infrared"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-ibutton</loc>
-    <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero/fz-ibutton"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/flipper-zero/fz-125khz-rfid</loc>
-    <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/flipper-zero/fz-125khz-rfid"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/proxmark-3</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/proxmark-3"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/proxmark-3"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/fissure-the-rf-framework</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/fissure-the-rf-framework"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/fissure-the-rf-framework"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/low-power-wide-area-network</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/low-power-wide-area-network"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/low-power-wide-area-network"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/radio-hacking/pentesting-ble-bluetooth-low-energy</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/radio-hacking/pentesting-ble-bluetooth-low-energy"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/test-llms</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/test-llms"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/test-llms"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/test-llms"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/test-llms"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/test-llms"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/test-llms"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/test-llms"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/test-llms"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/test-llms"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/test-llms"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/test-llms"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/test-llms"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/test-llms"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/test-llms"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/test-llms"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/test-llms"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/0.-basic-llm-concepts</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/0.-basic-llm-concepts"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/1.-tokenizing</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/1.-tokenizing"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/1.-tokenizing"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/2.-data-sampling</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/2.-data-sampling"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/2.-data-sampling"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/3.-token-embeddings</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/3.-token-embeddings"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/3.-token-embeddings"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/4.-attention-mechanisms</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/4.-attention-mechanisms"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/5.-llm-architecture</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/5.-llm-architecture"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/5.-llm-architecture"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/6.-pre-training-and-loading-models</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/6.-pre-training-and-loading-models"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/7.0.-lora-improvements-in-fine-tuning"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/7.1.-fine-tuning-for-classification"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions</loc>
-    <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/llm-training-data-preparation/7.2.-fine-tuning-to-follow-instructions"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/burp-suite</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/burp-suite"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/burp-suite"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/burp-suite"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/burp-suite"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/burp-suite"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/burp-suite"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/burp-suite"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/burp-suite"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/burp-suite"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/burp-suite"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/burp-suite"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/burp-suite"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/burp-suite"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/burp-suite"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/burp-suite"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/burp-suite"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/other-web-tricks</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/other-web-tricks"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/other-web-tricks"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/interesting-http</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/interesting-http"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/interesting-http"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/interesting-http"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/interesting-http"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/interesting-http"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/interesting-http"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/interesting-http"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/interesting-http"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/interesting-http"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/interesting-http"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/interesting-http"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/interesting-http"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/interesting-http"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/interesting-http"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/interesting-http"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/interesting-http"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/android-forensics</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/android-forensics"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/android-forensics"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/android-forensics"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/android-forensics"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/android-forensics"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/android-forensics"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/android-forensics"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/android-forensics"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/android-forensics"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/android-forensics"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/android-forensics"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/android-forensics"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/android-forensics"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/android-forensics"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/android-forensics"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/android-forensics"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/tr-069</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/tr-069"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/tr-069"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/tr-069"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/tr-069"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/tr-069"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/tr-069"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/tr-069"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/tr-069"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/tr-069"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/tr-069"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/tr-069"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/tr-069"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/tr-069"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/tr-069"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/tr-069"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/tr-069"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/6881-udp-pentesting-bittorrent</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/6881-udp-pentesting-bittorrent"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/6881-udp-pentesting-bittorrent"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/online-platforms-with-api</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/online-platforms-with-api"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/online-platforms-with-api"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/stealing-sensitive-information-disclosure-from-a-web</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/stealing-sensitive-information-disclosure-from-a-web"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/post-exploitation</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/post-exploitation"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/post-exploitation"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/investment-terms</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/investment-terms"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/investment-terms"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/investment-terms"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/investment-terms"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/investment-terms"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/investment-terms"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/investment-terms"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/investment-terms"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/investment-terms"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/investment-terms"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/investment-terms"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/investment-terms"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/investment-terms"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/investment-terms"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/investment-terms"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/investment-terms"/>
-  </url>
-  <url>
-    <loc>https://book.hacktricks.xyz/todo/cookies-policy</loc>
-    <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
-    <link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="in" href="https://book.hacktricks.xyz/in/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/todo/cookies-policy"/>
-    <link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/todo/cookies-policy"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/</loc>
