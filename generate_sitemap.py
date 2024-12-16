@@ -53,6 +53,22 @@ def add_static_urls_without_translations(root, urls):
         loc.text = encode_url(url)
         root.append(url_element)
 
+def add_translated_urls(url_element, original_url):
+    """Add translated URLs with language codes appended to the path."""
+    for hreflang, lang_code in languages.items():
+        # Add the language code to the path
+        path_parts = original_url.split('/', 3)
+        if len(path_parts) > 3:  # Ensure there's a path to modify
+            translated_url = f"{path_parts[0]}//{path_parts[2]}/{lang_code}/{path_parts[3]}"
+        else:  # For root-level paths
+            translated_url = f"{original_url}/{lang_code}"
+        
+        # Create <xhtml:link>
+        alt_link = ET.SubElement(url_element, '{http://www.w3.org/1999/xhtml}link')
+        alt_link.set('rel', 'alternate')
+        alt_link.set('hreflang', hreflang)
+        alt_link.set('href', encode_url(translated_url))
+
 def main():
     # URLs of the sitemaps
     book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
@@ -74,13 +90,9 @@ def main():
     ET.register_namespace('xhtml', "http://www.w3.org/1999/xhtml")
     new_root = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}urlset')
 
-    # Add static entry for https://www.hacktricks.xyz/
-    add_static_urls_without_translations(new_root, [
-        "https://www.hacktricks.xyz/"
-    ])
-
     # Add static URLs for training.hacktricks.xyz without translations
     static_training_urls = [
+        "https://www.hacktricks.xyz/",
         "https://training.hacktricks.xyz/",
         "https://training.hacktricks.xyz/courses/arte",
         "https://training.hacktricks.xyz/courses/arta",
@@ -123,14 +135,8 @@ def main():
             lastmod_el = ET.SubElement(url_entry, '{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod')
             lastmod_el.text = lastmod.text
 
-        # Add alternate links for translations
-        base_domain = loc_text.split('/')[0:3]
-        base_domain = '/'.join(base_domain)
-        for hreflang, lang_path in languages.items():
-            alt_link = ET.SubElement(url_entry, '{http://www.w3.org/1999/xhtml}link')
-            alt_link.set('rel', 'alternate')
-            alt_link.set('hreflang', hreflang)
-            alt_link.set('href', encode_url(f"{base_domain}/{lang_path}"))
+        # Add translations
+        add_translated_urls(url_entry, loc_text)
 
         new_root.append(url_entry)
 
