@@ -53,6 +53,24 @@ def encode_url(url):
     """Encode the URL to make it XML-safe and RFC-compliant."""
     return quote(url, safe=":/?&=")  # Leave common URL-safe characters untouched
 
+def add_static_urls(root, urls):
+    """Add static URLs to the sitemap."""
+    for url in urls:
+        url_element = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
+
+        loc = ET.SubElement(url_element, '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
+        loc.text = encode_url(url)
+
+        # Add translations for each language
+        for lang_code, hreflang in languages.items():
+            translated_url = encode_url(f"{url}/{lang_code}")
+            alt_link = ET.SubElement(url_element, '{http://www.w3.org/1999/xhtml}link')
+            alt_link.set('rel', 'alternate')
+            alt_link.set('hreflang', hreflang)
+            alt_link.set('href', translated_url)
+
+        root.append(url_element)
+
 def main():
     # URLs of the sitemaps
     book_sitemap_url = "https://book.hacktricks.xyz/sitemap.xml"
@@ -82,6 +100,23 @@ def main():
     loc = ET.SubElement(static_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')
     loc.text = encode_url("https://www.hacktricks.xyz/")
     new_root.append(static_url)
+
+    # Add static URLs for training.hacktricks.xyz
+    static_training_urls = [
+        "https://training.hacktricks.xyz/",
+        "https://training.hacktricks.xyz/courses/arte",
+        "https://training.hacktricks.xyz/courses/arta",
+        "https://training.hacktricks.xyz/courses/grte",
+        "https://training.hacktricks.xyz/courses/grta",
+        "https://training.hacktricks.xyz/bundles",
+        "https://training.hacktricks.xyz/signin",
+        "https://training.hacktricks.xyz/signup",
+        "https://training.hacktricks.xyz/contact",
+        "https://training.hacktricks.xyz/faqs",
+        "https://training.hacktricks.xyz/terms",
+        "https://training.hacktricks.xyz/privacy",
+    ]
+    add_static_urls(new_root, static_training_urls)
 
     # Process main URLs
     for url_element in tqdm(all_urls, desc="Processing URLs"):
@@ -128,17 +163,6 @@ def main():
             translation_urls
         ))
 
-    # Commented-out URL checks, assuming all translations exist for now
-    # all_translation_checks = {}
-    # with ThreadPoolExecutor(max_workers=10) as executor:
-    #     future_to_url = {executor.submit(check_url_exists, t_url): (hreflang, t_url) 
-    #                      for _, _, _, t_urls in url_entries for hreflang, t_url in t_urls.items()}
-    #
-    #     for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Checking Translation URLs"):
-    #         hreflang, t_url = future_to_url[future]
-    #         result = future.result()
-    #         all_translation_checks[t_url] = result
-
     # Build the final sitemap
     for (loc_text, priority_val, lastmod_val, translation_urls) in url_entries:
         new_url = ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}url')
@@ -156,7 +180,7 @@ def main():
 
         # Add all translations (assume all exist for now)
         for hreflang, t_url in translation_urls.items():
-            alt_link = ET.SubElement(new_url, '{http://www.w3.org/1999/xhtml}link')
+            alt_link = ET.SubElement(new_url, '{http://www.sitemaps.org/schemas/sitemap/0.9}link')
             alt_link.set('rel', 'alternate')
             alt_link.set('hreflang', hreflang)
             alt_link.set('href', t_url)
