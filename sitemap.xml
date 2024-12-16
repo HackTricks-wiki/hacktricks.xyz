@@ -1,235 +1,43 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hacktricks.xyz/</loc>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz//af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz//zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz//es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz//fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz//de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz//el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz//in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz//it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz//ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz//ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz//pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz//pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz//sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz//sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz//tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz//uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/courses/arte</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/courses/arte/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/courses/arte/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/courses/arte/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/courses/arte/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/courses/arte/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/courses/arte/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/courses/arte/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/courses/arte/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/courses/arte/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/courses/arte/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/courses/arte/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/courses/arte/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/courses/arte/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/courses/arte/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/courses/arte/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/courses/arte/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/courses/arta</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/courses/arta/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/courses/arta/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/courses/arta/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/courses/arta/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/courses/arta/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/courses/arta/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/courses/arta/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/courses/arta/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/courses/arta/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/courses/arta/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/courses/arta/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/courses/arta/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/courses/arta/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/courses/arta/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/courses/arta/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/courses/arta/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/courses/grte</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/courses/grte/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/courses/grte/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/courses/grte/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/courses/grte/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/courses/grte/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/courses/grte/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/courses/grte/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/courses/grte/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/courses/grte/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/courses/grte/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/courses/grte/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/courses/grte/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/courses/grte/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/courses/grte/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/courses/grte/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/courses/grte/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/courses/grta</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/courses/grta/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/courses/grta/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/courses/grta/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/courses/grta/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/courses/grta/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/courses/grta/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/courses/grta/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/courses/grta/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/courses/grta/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/courses/grta/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/courses/grta/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/courses/grta/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/courses/grta/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/courses/grta/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/courses/grta/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/courses/grta/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/bundles</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/bundles/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/bundles/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/bundles/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/bundles/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/bundles/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/bundles/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/bundles/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/bundles/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/bundles/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/bundles/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/bundles/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/bundles/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/bundles/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/bundles/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/bundles/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/bundles/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/signin</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/signin/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/signin/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/signin/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/signin/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/signin/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/signin/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/signin/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/signin/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/signin/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/signin/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/signin/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/signin/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/signin/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/signin/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/signin/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/signin/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/signup</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/signup/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/signup/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/signup/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/signup/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/signup/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/signup/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/signup/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/signup/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/signup/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/signup/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/signup/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/signup/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/signup/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/signup/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/signup/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/signup/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/contact</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/contact/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/contact/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/contact/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/contact/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/contact/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/contact/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/contact/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/contact/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/contact/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/contact/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/contact/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/contact/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/contact/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/contact/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/contact/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/contact/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/faqs</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/faqs/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/faqs/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/faqs/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/faqs/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/faqs/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/faqs/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/faqs/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/faqs/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/faqs/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/faqs/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/faqs/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/faqs/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/faqs/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/faqs/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/faqs/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/faqs/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/terms</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/terms/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/terms/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/terms/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/terms/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/terms/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/terms/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/terms/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/terms/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/terms/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/terms/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/terms/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/terms/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/terms/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/terms/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/terms/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/terms/uk"/>
   </url>
   <url>
     <loc>https://training.hacktricks.xyz/privacy</loc>
-    <xhtml:link rel="alternate" hreflang="af" href="https://training.hacktricks.xyz/privacy/af"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://training.hacktricks.xyz/privacy/zh"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://training.hacktricks.xyz/privacy/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://training.hacktricks.xyz/privacy/fr"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://training.hacktricks.xyz/privacy/de"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://training.hacktricks.xyz/privacy/el"/>
-    <xhtml:link rel="alternate" hreflang="in" href="https://training.hacktricks.xyz/privacy/in"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://training.hacktricks.xyz/privacy/it"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://training.hacktricks.xyz/privacy/ja"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://training.hacktricks.xyz/privacy/ko"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://training.hacktricks.xyz/privacy/pl"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://training.hacktricks.xyz/privacy/pt"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://training.hacktricks.xyz/privacy/sr"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://training.hacktricks.xyz/privacy/sw"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://training.hacktricks.xyz/privacy/tr"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://training.hacktricks.xyz/privacy/uk"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/</loc>
