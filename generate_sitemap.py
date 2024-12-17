@@ -143,14 +143,22 @@ def main():
     # Serialize XML to bytes with XML declaration, no pretty formatting
     serialized_xml = serialize_xml(new_root)
 
-    # Write the serialized XML to file as binary
-    with open("sitemap.xml", "wb") as f:
-        f.write(serialized_xml)
+    # Convert bytes to string and replace single quotes with double quotes in XML declaration
+    serialized_xml_str = serialized_xml.decode('utf-8')
+    if serialized_xml_str.startswith("<?xml"):
+        # Replace single quotes with double quotes in the XML declaration only
+        xml_declaration_end = serialized_xml_str.find("?>") + 2
+        xml_declaration = serialized_xml_str[:xml_declaration_end]
+        xml_declaration = xml_declaration.replace("'", '"')
+        rest_of_xml = serialized_xml_str[xml_declaration_end:]
+        serialized_xml_str = xml_declaration + rest_of_xml
 
-    # Alternatively, if you prefer to write as text, decode the bytes
-    # serialized_xml_str = serialized_xml.decode('utf-8')
-    # with open("sitemap.xml", "w", encoding="utf-8") as f:
-    #     f.write(serialized_xml_str)
+    # Remove any newline or carriage return characters to ensure single-line XML
+    serialized_xml_str = serialized_xml_str.replace('\n', '').replace('\r', '')
+
+    # Write the serialized XML to file as text
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(serialized_xml_str)
 
 if __name__ == "__main__":
     main()
