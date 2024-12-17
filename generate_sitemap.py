@@ -12,7 +12,7 @@ languages = {
     "fr": "fr",  # French
     "de": "de",  # German
     "el": "el",  # Greek
-    "in": "in",  # Indian
+    "hi": "hi",  # Indian
     "it": "it",  # Italian
     "ja": "ja",  # Japanese
     "ko": "ko",  # Korean
