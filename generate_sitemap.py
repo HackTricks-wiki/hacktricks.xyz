@@ -36,14 +36,13 @@ def fetch_sitemap(url):
     return response.text
 
 def prettify_xml(element):
-    """Prettify and return a string representation of the XML without XML declaration."""
+    """Prettify and return a string representation of the XML with XML declaration including encoding."""
     rough_string = ET.tostring(element, encoding='utf-8')
     reparsed = minidom.parseString(rough_string)
-    pretty = reparsed.toprettyxml(indent="  ")
-    # Remove the XML declaration
-    lines = pretty.split('\n')
-    lines = [line for line in lines if line.strip() and not line.strip().startswith('<?xml')]
-    return '\n'.join(lines)
+    # Specify encoding to include it in the XML declaration
+    pretty = reparsed.toprettyxml(indent="  ", encoding="UTF-8")
+    # Decode bytes to string for writing to file
+    return pretty.decode('UTF-8')
 
 def encode_url(url):
     """Encode the URL to make it XML-safe and RFC-compliant."""
@@ -144,7 +143,7 @@ def main():
 
         new_root.append(url_entry)
 
-    # Save prettified XML to file without XML declaration
+    # Save prettified XML to file with XML declaration including encoding
     beautified_xml = prettify_xml(new_root)
     with open("sitemap.xml", "w", encoding="utf-8") as f:
         f.write(beautified_xml)
