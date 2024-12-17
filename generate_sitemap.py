@@ -159,6 +159,8 @@ def main():
     beautified_xml = prettify_xml(new_root)
     with open("sitemap.xml", "w", encoding="utf-8") as f:
         f.write(beautified_xml)
+    with open("sitemap2.xml", "w", encoding="utf-8") as f:
+        f.write(beautified_xml)
 
     print("sitemap.xml has been successfully generated.")
 
