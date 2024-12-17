@@ -1,5 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 from tqdm import tqdm
 from urllib.parse import quote
 
@@ -34,12 +35,14 @@ def fetch_sitemap(url):
     response.raise_for_status()
     return response.text
 
-def serialize_xml(element):
-    """
-    Serialize the XML Element to a bytes object with XML declaration,
-    without any additional formatting (all content in one line).
-    """
-    return ET.tostring(element, encoding='utf-8', xml_declaration=True)
+def prettify_xml(element):
+    """Prettify and return a string representation of the XML with XML declaration including encoding."""
+    rough_string = ET.tostring(element, encoding='utf-8')
+    reparsed = minidom.parseString(rough_string)
+    # Specify encoding to include it in the XML declaration
+    pretty = reparsed.toprettyxml(indent="  ", encoding="UTF-8")
+    # Decode bytes to string for writing to file
+    return pretty.decode('UTF-8')
 
 def encode_url(url):
     """Encode the URL to make it XML-safe and RFC-compliant."""
@@ -54,7 +57,14 @@ def add_static_urls_without_translations(root, urls):
         root.append(url_element)
 
 def add_translated_urls(url_element, original_url):
-    """Add translated URLs with language codes appended to the path."""
+    """Add translated URLs with language codes appended to the path, including x-default."""
+    # Add x-default hreflang pointing to the original URL
+    alt_link_default = ET.SubElement(url_element, '{http://www.w3.org/1999/xhtml}link')
+    alt_link_default.set('rel', 'alternate')
+    alt_link_default.set('hreflang', 'x-default')
+    alt_link_default.set('href', encode_url(original_url))
+
+    # Add hreflang links for each language
     for hreflang, lang_code in languages.items():
         # Add the language code to the path
         path_parts = original_url.split('/', 3)
@@ -75,11 +85,13 @@ def main():
     cloud_sitemap_url = "https://cloud.hacktricks.xyz/sitemap.xml"
 
     # Fetch both sitemaps
+    print("Fetching sitemaps...")
     book_sitemap_data = fetch_sitemap(book_sitemap_url)
     cloud_sitemap_data = fetch_sitemap(cloud_sitemap_url)
 
     # Parse XML
     ns = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+    print("Parsing sitemaps...")
     book_root = ET.fromstring(book_sitemap_data)
     cloud_root = ET.fromstring(cloud_sitemap_data)
 
@@ -106,9 +118,11 @@ def main():
         "https://training.hacktricks.xyz/terms",
         "https://training.hacktricks.xyz/privacy",
     ]
+    print("Adding static URLs without translations...")
     add_static_urls_without_translations(new_root, static_training_urls)
 
     # Process main URLs from book and cloud hacktricks sitemaps
+    print("Processing main URLs with translations...")
     for url_element in tqdm(all_urls, desc="Processing URLs"):
         loc = url_element.find('ns:loc', ns)
         if loc is None:
@@ -135,30 +149,18 @@ def main():
             lastmod_el = ET.SubElement(url_entry, '{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod')
             lastmod_el.text = lastmod.text
 
-        # Add translations
+        # Add translations and x-default
         add_translated_urls(url_entry, loc_text)
 
         new_root.append(url_entry)
 
-    # Serialize XML to bytes with XML declaration, no pretty formatting
-    serialized_xml = serialize_xml(new_root)
-
-    # Convert bytes to string and replace single quotes with double quotes in XML declaration
-    serialized_xml_str = serialized_xml.decode('utf-8')
-    if serialized_xml_str.startswith("<?xml"):
-        # Replace single quotes with double quotes in the XML declaration only
-        xml_declaration_end = serialized_xml_str.find("?>") + 2
-        xml_declaration = serialized_xml_str[:xml_declaration_end]
-        xml_declaration = xml_declaration.replace("'", '"')
-        rest_of_xml = serialized_xml_str[xml_declaration_end:]
-        serialized_xml_str = xml_declaration + rest_of_xml
-
-    # Remove any newline or carriage return characters to ensure single-line XML
-    serialized_xml_str = serialized_xml_str.replace('\n', '').replace('\r', '')
-
-    # Write the serialized XML to file as text
+    # Save prettified XML to file
+    print("Generating prettified XML sitemap...")
+    beautified_xml = prettify_xml(new_root)
     with open("sitemap.xml", "w", encoding="utf-8") as f:
-        f.write(serialized_xml_str)
+        f.write(beautified_xml)
+
+    print("sitemap.xml has been successfully generated.")
 
 if __name__ == "__main__":
     main()
