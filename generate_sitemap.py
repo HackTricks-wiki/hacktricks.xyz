@@ -1,6 +1,5 @@
 import requests
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
 from tqdm import tqdm
 from urllib.parse import quote
 
@@ -35,14 +34,12 @@ def fetch_sitemap(url):
     response.raise_for_status()
     return response.text
 
-def prettify_xml(element):
-    """Prettify and return a string representation of the XML with XML declaration including encoding."""
-    rough_string = ET.tostring(element, encoding='utf-8')
-    reparsed = minidom.parseString(rough_string)
-    # Specify encoding to include it in the XML declaration
-    pretty = reparsed.toprettyxml(indent="  ", encoding="UTF-8")
-    # Decode bytes to string for writing to file
-    return pretty.decode('UTF-8')
+def serialize_xml(element):
+    """
+    Serialize the XML Element to a bytes object with XML declaration,
+    without any additional formatting (all content in one line).
+    """
+    return ET.tostring(element, encoding='utf-8', xml_declaration=True)
 
 def encode_url(url):
     """Encode the URL to make it XML-safe and RFC-compliant."""
@@ -143,10 +140,17 @@ def main():
 
         new_root.append(url_entry)
 
-    # Save prettified XML to file with XML declaration including encoding
-    beautified_xml = prettify_xml(new_root)
-    with open("sitemap.xml", "w", encoding="utf-8") as f:
-        f.write(beautified_xml)
+    # Serialize XML to bytes with XML declaration, no pretty formatting
+    serialized_xml = serialize_xml(new_root)
+
+    # Write the serialized XML to file as binary
+    with open("sitemap.xml", "wb") as f:
+        f.write(serialized_xml)
+
+    # Alternatively, if you prefer to write as text, decode the bytes
+    # serialized_xml_str = serialized_xml.decode('utf-8')
+    # with open("sitemap.xml", "w", encoding="utf-8") as f:
+    #     f.write(serialized_xml_str)
 
 if __name__ == "__main__":
     main()
