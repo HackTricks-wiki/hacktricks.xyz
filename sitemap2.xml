@@ -8092,6 +8092,28 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/pentesting-web/flask"/>
   </url>
   <url>
+    <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs</loc>
+    <priority>0.7</priority>
+    <lastmod>2024-12-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.xyz/hi/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/pentesting-web/nextjs"/>
+  </url>
+  <url>
     <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nodejs-express</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
@@ -8444,26 +8466,26 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/pentesting-web/nginx"/>
   </url>
   <url>
-    <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs</loc>
+    <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs-1</loc>
     <priority>0.7</priority>
     <lastmod>2024-12-14</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.xyz/hi/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/network-services-pentesting/pentesting-web/nextjs"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/pentesting-web/nextjs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://book.hacktricks.xyz/es/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://book.hacktricks.xyz/fr/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://book.hacktricks.xyz/de/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://book.hacktricks.xyz/el/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://book.hacktricks.xyz/hi/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://book.hacktricks.xyz/it/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://book.hacktricks.xyz/ja/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://book.hacktricks.xyz/ko/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://book.hacktricks.xyz/pl/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://book.hacktricks.xyz/pt/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://book.hacktricks.xyz/sr/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://book.hacktricks.xyz/sw/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://book.hacktricks.xyz/tr/network-services-pentesting/pentesting-web/nextjs-1"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://book.hacktricks.xyz/uk/network-services-pentesting/pentesting-web/nextjs-1"/>
   </url>
   <url>
     <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/php-tricks-esp</loc>
@@ -13594,7 +13616,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf</loc>
     <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
+    <lastmod>2024-12-21</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
@@ -17466,7 +17488,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/terraform-security</loc>
     <priority>0.84</priority>
-    <lastmod>2024-07-18</lastmod>
+    <lastmod>2024-12-18</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-ci-cd/terraform-security"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-ci-cd/terraform-security"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-ci-cd/terraform-security"/>
@@ -17618,6 +17640,28 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-ci-cd/okta-security/okta-hardening"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/serverless.com-security</loc>
+    <priority>0.84</priority>
+    <lastmod>2024-12-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-ci-cd/serverless.com-security"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-ci-cd/serverless.com-security"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/supabase-security</loc>
     <priority>0.84</priority>
     <lastmod>2024-07-17</lastmod>
@@ -17660,6 +17704,28 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-ci-cd/ansible-tower-awx-automation-controller-security"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-ci-cd/ansible-tower-awx-automation-controller-security"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-ci-cd/ansible-tower-awx-automation-controller-security"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/vercel-security</loc>
+    <priority>0.84</priority>
+    <lastmod>2024-12-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-ci-cd/vercel-security"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-ci-cd/vercel-security"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/todo</loc>
@@ -25605,7 +25671,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-file-shares</loc>
     <priority>0.59</priority>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-file-shares"/>
@@ -25623,6 +25689,28 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-services/az-file-shares"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-function-apps</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-services/az-function-apps"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-services/az-function-apps"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/keyvault</loc>
@@ -25781,7 +25869,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-table-storage</loc>
     <priority>0.59</priority>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-table-storage"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-table-storage"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-table-storage"/>
@@ -25803,7 +25891,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/vms</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-05</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/vms"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/vms"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/vms"/>
@@ -25825,7 +25913,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/vms/az-azure-network</loc>
     <priority>0.5</priority>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/vms/az-azure-network"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/vms/az-azure-network"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/vms/az-azure-network"/>
@@ -26374,7 +26462,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-table-storage-post-exploitation</loc>
     <priority>0.59</priority>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-table-storage-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-post-exploitation/az-table-storage-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-post-exploitation/az-table-storage-post-exploitation"/>
@@ -26526,6 +26614,28 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-entraid-privesc/dynamic-groups"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-key-vault-privesc</loc>
     <priority>0.59</priority>
     <lastmod>2024-11-22</lastmod>
@@ -26616,7 +26726,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
