@@ -350,7 +350,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp</loc>
     <priority>0.7</priority>
-    <lastmod>2024-12-14</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp"/>
@@ -768,7 +768,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-14</lastmod>
+    <lastmod>2024-12-23</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet"/>
@@ -8094,7 +8094,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs</loc>
     <priority>0.7</priority>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nextjs"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/network-services-pentesting/pentesting-web/nextjs"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/network-services-pentesting/pentesting-web/nextjs"/>
@@ -11724,7 +11724,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/dependency-confusion</loc>
     <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/pentesting-web/dependency-confusion"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/dependency-confusion"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/dependency-confusion"/>
@@ -12978,7 +12978,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/proxy-waf-protections-bypass</loc>
     <priority>0.84</priority>
-    <lastmod>2024-12-14</lastmod>
+    <lastmod>2024-12-25</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/pentesting-web/proxy-waf-protections-bypass"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/proxy-waf-protections-bypass"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/proxy-waf-protections-bypass"/>
@@ -13616,7 +13616,7 @@
   <url>
     <loc>https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf</loc>
     <priority>0.7</priority>
-    <lastmod>2024-12-21</lastmod>
+    <lastmod>2024-12-24</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://book.hacktricks.xyz/af/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://book.hacktricks.xyz/zh/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf"/>
@@ -19006,7 +19006,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-compute-privesc</loc>
     <priority>0.59</priority>
-    <lastmod>2024-08-31</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-compute-privesc"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-compute-privesc"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-compute-privesc"/>
@@ -21799,7 +21799,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-codebuild-post-exploitation/aws-codebuild-token-leakage</loc>
     <priority>0.5</priority>
-    <lastmod>2024-12-05</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-post-exploitation/aws-codebuild-post-exploitation/aws-codebuild-token-leakage"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/aws-security/aws-post-exploitation/aws-codebuild-post-exploitation/aws-codebuild-token-leakage"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/aws-security/aws-post-exploitation/aws-codebuild-post-exploitation/aws-codebuild-token-leakage"/>
@@ -22481,7 +22481,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codebuild-privesc</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codebuild-privesc"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codebuild-privesc"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codebuild-privesc"/>
@@ -25625,26 +25625,26 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-services/az-automation-account/az-state-configuration-rce"/>
   </url>
   <url>
-    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-azure-app-service</loc>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-app-services</loc>
     <priority>0.59</priority>
-    <lastmod>2024-07-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-services/az-azure-app-service"/>
+    <lastmod>2024-12-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-services/az-app-services"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-services/az-app-services"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/intune</loc>
@@ -25671,7 +25671,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-file-shares</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-20</lastmod>
+    <lastmod>2024-12-23</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-file-shares"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-file-shares"/>
@@ -25693,7 +25693,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-function-apps</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-21</lastmod>
+    <lastmod>2024-12-25</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-function-apps"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-function-apps"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-function-apps"/>
@@ -25825,7 +25825,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-sql</loc>
     <priority>0.59</priority>
-    <lastmod>2024-07-18</lastmod>
+    <lastmod>2024-12-26</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-sql"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-services/az-sql"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-services/az-sql"/>
@@ -26374,7 +26374,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation</loc>
     <priority>0.59</priority>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-25</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
@@ -26392,6 +26392,28 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-post-exploitation/az-file-share-post-exploitation"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-post-exploitation/az-function-apps-post-exploitation"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-key-vault-post-exploitation</loc>
@@ -26482,6 +26504,28 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-post-exploitation/az-table-storage-post-exploitation"/>
   </url>
   <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-post-exploitation/az-sql-post-exploitation"/>
+  </url>
+  <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-post-exploitation/az-vms-and-network-post-exploitation</loc>
     <priority>0.59</priority>
     <lastmod>2024-12-05</lastmod>
@@ -26528,7 +26572,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc</loc>
     <priority>0.59</priority>
-    <lastmod>2024-11-30</lastmod>
+    <lastmod>2024-12-24</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
@@ -26546,6 +26590,28 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-authorization-privesc"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-app-services-privesc"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-entraid-privesc</loc>
@@ -26616,7 +26682,7 @@
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc</loc>
     <priority>0.59</priority>
-    <lastmod>2024-12-21</lastmod>
+    <lastmod>2024-12-25</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
     <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-functions-app-privesc"/>
@@ -26744,6 +26810,28 @@
     <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
     <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-storage-privesc"/>
+  </url>
+  <url>
+    <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc</loc>
+    <priority>0.59</priority>
+    <lastmod>2024-12-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="af" href="https://cloud.hacktricks.xyz/af/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cloud.hacktricks.xyz/zh/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://cloud.hacktricks.xyz/es/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://cloud.hacktricks.xyz/fr/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://cloud.hacktricks.xyz/de/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://cloud.hacktricks.xyz/el/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://cloud.hacktricks.xyz/hi/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://cloud.hacktricks.xyz/it/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://cloud.hacktricks.xyz/ja/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://cloud.hacktricks.xyz/ko/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://cloud.hacktricks.xyz/pl/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://cloud.hacktricks.xyz/pt/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://cloud.hacktricks.xyz/sr/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://cloud.hacktricks.xyz/sw/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cloud.hacktricks.xyz/tr/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://cloud.hacktricks.xyz/uk/pentesting-cloud/azure-security/az-privilege-escalation/az-sql-privesc"/>
   </url>
   <url>
     <loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-persistence</loc>
